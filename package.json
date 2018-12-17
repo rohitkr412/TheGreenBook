@@ -6,7 +6,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "prompt-list": "^3.2.0",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "sync-request": "^6.0.0"
   },
   "devDependencies": {},
   "scripts": {
